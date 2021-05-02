@@ -27,7 +27,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: ![](<https://i.pinimg.com/originals/0a/4c/81/0a4c819b9d94882a95eb3166587b8263.png>)
+author_logo: profile.png
 author: Hyelim Choi
 author_bio: Hi, my name is Hyelim Choi!! :D
 author_email: "22000770@handong.edu"
