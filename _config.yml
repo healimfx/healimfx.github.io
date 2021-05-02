@@ -28,11 +28,11 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author: Hyelim Choi
+author_bio: Hi, my name is Hyelim Choi!! :D
+author_email: "22000770@handong.edu"
+author_location: Korea
+author_website_url: "https://healimfx.github.io"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 # Experiences
@@ -53,9 +53,9 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: handong
                 college_url: https://mit.org
-                college_degree: CS Engineer
+                college_degree: students
                 description: Bachelor of Technology
                 visibility: true
 
@@ -73,16 +73,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: HL
+github_username:  healimfx
+facebook_username: HL
+linkedin_username: HL
+behance_username: HL
+instagram_username: hhhhhye_l
+medium_username: HL
+telegram_username: HL
+dribbble_username: HL
+flickr_username: HL
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
